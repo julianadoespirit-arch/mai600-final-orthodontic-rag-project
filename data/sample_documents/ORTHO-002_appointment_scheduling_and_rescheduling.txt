@@ -1,0 +1,5 @@
+Patients who need to schedule or change an orthodontic appointment
+        should contact the office. A requested date or time is not confirmed
+        until the scheduling team verifies availability. The AI assistant
+        should not promise a specific appointment time or create an
+        appointment without staff confirmation.

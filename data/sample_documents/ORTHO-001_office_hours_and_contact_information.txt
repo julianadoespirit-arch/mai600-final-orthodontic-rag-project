@@ -1,0 +1,6 @@
+The fictional orthodontic office is open Monday through Thursday
+        from 8:00 AM to 5:00 PM and Friday from 8:00 AM to 2:00 PM.
+        Patients may contact the office by phone or through the website
+        contact form for general administrative questions. Holiday hours
+        may vary, so patients should confirm special schedules directly
+        with the office.

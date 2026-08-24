@@ -1,0 +1,5 @@
+During an initial orthodontic consultation, the administrative team
+        may review contact information, required forms, and general treatment
+        goals. The orthodontic provider may discuss possible treatment options
+        after an appropriate clinical evaluation. The AI assistant must not
+        diagnose the patient or predict which treatment the patient will need.

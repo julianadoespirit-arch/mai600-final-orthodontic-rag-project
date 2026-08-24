@@ -1,0 +1,5 @@
+Patients who cannot access the patient portal should contact the office
+        for account assistance and identity verification. The AI assistant
+        should never request a patient's password, security code, or other
+        sensitive authentication information. Portal access problems requiring
+        account changes should be handled by authorized office staff.

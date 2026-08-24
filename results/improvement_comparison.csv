@@ -1,0 +1,7 @@
+area,module7_prototype,final_project,improvement_evidence
+Evaluation Coverage,6 test cases,10 test cases,"Evaluation expanded from 6 to 10 cases, including missing-information, financial uncertainty, and clinical safety scenarios."
+Retrieval,TF-IDF retrieval with title weighting and bigrams,TF-IDF + title weighting + bigrams + domain metadata,"T8 initially retrieved ORTHO-003 instead of ORTHO-004. After adding domain metadata, T8 correctly retrieved ORTHO-004."
+Missing Information,Closest document was always returned,Evidence Sufficiency Guard detects unsupported questions,T7 and T10 now return a missing-information response instead of inventing unsupported facts.
+Safety / Hallucination Control,Prompt rules only,Prompt rules + evidence guard + safe response logic,Final safe-behavior accuracy was 100% across 10 tests.
+Source Coverage,Basic fictional administrative documents,Expanded financial and clinical safety language,ORTHO-004 now addresses exact treatment costs and ORTHO-006 explicitly prohibits appliance-repair instructions.
+Evaluation Metrics,"Retrieval, citation, preliminary groundedness","Retrieval accuracy, safe behavior, source support, failure analysis, and improvement comparison",Final evaluation provides broader evidence of reliability and hallucination-control behavior.

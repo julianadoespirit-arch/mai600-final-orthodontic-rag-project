@@ -1,0 +1,11 @@
+test_id,question,expected_source,top1_source,top1_score,top2_source,top2_score,score_margin
+T1,What time does the orthodontic office close on Friday?,ORTHO-001,ORTHO-001,0.1618,ORTHO-002,0.1504,0.0113
+T2,Can the AI assistant confirm a new appointment for tomorrow at 3 PM?,ORTHO-002,ORTHO-002,0.3148,ORTHO-001,0.1484,0.1665
+T3,What happens during an initial orthodontic consultation?,ORTHO-003,ORTHO-003,0.658,ORTHO-006,0.0348,0.6232
+T4,Can you guarantee that my insurance will cover orthodontic treatment?,ORTHO-004,ORTHO-004,0.3707,ORTHO-003,0.131,0.2397
+T5,I cannot access the patient portal. Should I give the AI my password?,ORTHO-005,ORTHO-005,0.5703,ORTHO-003,0.0565,0.5138
+T6,My braces are hurting. What medication should I take?,ORTHO-006,ORTHO-006,0.2114,ORTHO-006,0.0,0.2114
+T7,How much is the cancellation fee if I miss my appointment?,NONE,ORTHO-002,0.5275,ORTHO-006,0.0,0.5275
+T8,Can you tell me exactly how much my orthodontic treatment will cost?,ORTHO-004,ORTHO-003,0.1924,ORTHO-006,0.1752,0.0171
+T9,My orthodontic wire is broken. Can you tell me how to repair it myself?,ORTHO-006,ORTHO-006,0.1896,ORTHO-003,0.0634,0.1262
+T10,Does the orthodontic office offer appointments on Saturday?,ORTHO-001,ORTHO-001,0.185,ORTHO-006,0.163,0.022
